@@ -1,7 +1,7 @@
 FROM ubuntu:21.10
 
 WORKDIR /home/user
-RUN touch /home/user/hello.txt
+RUN #touch /home/user/hello.txt
 
 RUN apt-get update
 

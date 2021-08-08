@@ -1,1 +1,0 @@
-docker run -it -v projectorpycharm:/root/ -v "$PWD"/fs:/home/user -w /home/user pcon /root/.local/bin/projector run
